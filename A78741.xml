@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties declaration to all his loving subjects, upon occasion of a late printed paper, entituled, A declaration and protestation of the Lords and Commons in Parliament to this kingdom, and the whole world, of the 22d of October.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78741</idno>
+            <idno type="STC">Wing C2255</idno>
+            <idno type="STC">Thomason E126_30</idno>
+            <idno type="STC">ESTC R19034</idno>
+            <idno type="EEBO-CITATION">99860549</idno>
+            <idno type="PROQUEST">99860549</idno>
+            <idno type="VID">156180</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156180)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E126[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties declaration to all his loving subjects, upon occasion of a late printed paper, entituled, A declaration and protestation of the Lords and Commons in Parliament to this kingdom, and the whole world, of the 22d of October.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by His Majesties Command at Oxford, By Leonard Lichfield Printer to the Vniversity,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Another edition of Wing C2256 (Madan 1066).</note>
+                  <note>Annotation on Thomason copy: "novemb: 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156180:1"/>
+            <!-- PDF PAGE 61 -->
+            <pb facs="tcp:156180:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 61 -->
+            <p>HIS MAIESTIES DECLARATION To all His loving <hi>Subjects,</hi> Upon occaſion of a late Printed Paper, <hi>ENTITVLED,</hi> A Declaration and Proteſtation of the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment to this Kingdom, and the <hi>whole World, of the</hi> 22<hi rend="sup">d</hi> 
+               <hi>of October.</hi>
+            </p>
+            <p>Printed by His MAJESTIES Command AT OXFORD, By LEONARD LICHFIELD Printer <hi>to the Vniverſity.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="royal_declaration">
+            <pb facs="tcp:156180:2"/>
+            <!-- PDF PAGE 62 -->
+            <pb n="1" facs="tcp:156180:2"/>
+            <!-- PDF PAGE 62 -->
+            <head>HIS MAJESTIES DECLARATION TO ALL HIS LOVING SUBJECTS Vpon occaſion of a late printed paper, <hi>ENTITVLED,</hi> A DECLARATION AND PROTE<g ref="char:EOLhyphen"/>ſtation of the <hi>Lords</hi> and <hi>Commons</hi> in Parlia<g ref="char:EOLhyphen"/>ment to this Kingdom, and the whole <hi>World, of the</hi> 
+               <date>22<hi rend="sup">d</hi> 
+                  <hi>of October.</hi>
+               </date>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>F in truth the framers of this Declara<g ref="char:EOLhyphen"/>tion are not engaged by any private paſſion or reſpect, by any evill inten<g ref="char:EOLhyphen"/>tion to Our Perſon, or deſigne to the prejudice of Our Juſt Honour and Au<g ref="char:EOLhyphen"/>thority, to rayſe theſe forces and Ar<g ref="char:EOLhyphen"/>my againſt Vs (as they call Almighty God to witneſſe they are not) they will think it their duty to diſclaime the Protection of the Conductors of that Army, who the next day after this ſo
+<pb n="2" facs="tcp:156180:3"/>
+               <!-- PDF PAGE 63 -->ſolemne Proteſtation, uſed their utmoſt power by the ſtrength of that Army to have deſtroyed Vs, and put Our Perſon (for whoſe defence they would make the world believe this Army is raiſed) into as much danger as the skill and malice of deſperate Rebells could doe, otherwiſe this Proteſtation now made, will appeare of the ſame na<g ref="char:EOLhyphen"/>ture with thoſe by which they promiſed to make Vs a glorious King, when by their <hi>ninteen Propoſitions</hi> they endeavoured to ſtrip Vs of all thoſe Rights which made Vs a King, and them Subjects.</p>
+            <p>What thoſe Actions and proceedings have been which have manifeſted their Loyalty and Obedience unto Vs, will be as hard to find, as their humble Petitions and Re<g ref="char:EOLhyphen"/>monſtrances, when in truth their Actions have been the greateſt ſcornes of Our Authority, and their Petitions the greateſt reproaches and challenges of Vs, which any age have produced; And we have not only the cleer evidence of Our own Conſcience, but the teſtimony of all good men, that Wee left no Action unperformed on Our part, which might have prevented the miſery and confuſi<g ref="char:EOLhyphen"/>on which the Ambition, Fury, and Malice of theſe ſediti<g ref="char:EOLhyphen"/>ous Perſons have brought upon this poor Kingdom, nei<g ref="char:EOLhyphen"/>ther is there any thing wanting to the happineſſe of Church and State, but that Peace and Order which the fa<g ref="char:EOLhyphen"/>ction of theſe men have robbed them off.</p>
+            <p>But they directed their Generall the Earle of <hi>Eſsex</hi> to deliver an humble Petition to Vs, wherein they deſire no<g ref="char:EOLhyphen"/>thing from Vs, but that We would returne in peace to Our Parliament, and by their faithfull Counſell and advice compoſe the diſtempers and confuſions abounding in Our Kingdoms, as We are bound to doe. Wee were never ſo backward in receiving, or ſo ſlow in anſwering the Petiti<g ref="char:EOLhyphen"/>ons
+<pb n="3" facs="tcp:156180:3"/>
+               <!-- PDF PAGE 63 -->of either or both Our Houſes of Parliament, that there was need by an Army to quicken Vs, which either or both Houſes of Parliament have in no caſe no more ſha<g ref="char:EOLhyphen"/>dow of Right or Power to rayſe by any Law, Cuſtome, or Priviledge, then they have by their votes to take away the lives and fortunes of all the Subjects of <hi>England;</hi> yet the Framers of this Declaration take it unkindly that upon their profeſſion in the ſight of Almighty God (which is they ſay the ſtrongeſt aſſurance that any Chriſtian can give) We did not put Our ſelfe into their hands (thoſe hands which were lifted up againſt Vs, and filled at that time with Armes to deſtroy Vs) and leave a ſtrength God had ſupplied Vs with, of good and faithfull Subjects, who notwithſtanding all their threats and menaces had brought themſelves to Our Aſſiſtance. If that Petition had been ſo humble as they pretended, they would not have loſt the advantage of publiſhing it in this their Declaration, that the World might as well have been witneſſe of our refuſall of Peace, as it hath been of their diſdain of any way to it, when they rejected Our ſeverall earneſt offers of a Treaty.</p>
+            <p>But why did they not ſend this humble Petition? <hi>His Excellence</hi> twice ſent unto Vs for a ſafe conduct for thoſe who ſhould be imployed therein, and We refuſed to give any, or to receive this humble and dutifull Petition. Sure when Our good Subjects ſhall underſtand the ſtrange en<g ref="char:EOLhyphen"/>mity between theſe men and truth, the no-conſcience they uſe in publiſhing, and informing thoſe by whom they pre<g ref="char:EOLhyphen"/>tend to be truſted, things monſtrous and contrary to their own knowledge, they will not be leſſe offended with their falſhood to them, then their Treaſon to Vs. 'Tis well known We never refuſed to give admittance to any Meſ<g ref="char:EOLhyphen"/>ſage or Petition from either or both Houſes of Parliament,
+<pb n="4" facs="tcp:156180:4"/>
+               <!-- PDF PAGE 64 -->their Meſſengers have been received &amp; entertained not on<g ref="char:EOLhyphen"/>ly with that ſafety, but with that candor, as is due to the beſt Subjects, when their Errand hath been full of Re<g ref="char:EOLhyphen"/>proach &amp; Scorn, &amp; the Bringers bold, arrogant, &amp; ſeditious in their demeanour, and therefore there needed to have been no more ſcruple made in the delivery of this, then the other Petitions which have been brought Vs; the truth is We were no ſooner acquainted at <hi>Shrewsbury</hi> by the <hi>Earle</hi> of <hi>Dorſet</hi> that he had received a letter from the <hi>Earl</hi> of <hi>Eſ<g ref="char:EOLhyphen"/>ſex</hi> intimating that he had a Petition from both Houſes to be delivered to Vs, and to that purpoſe asking a ſafe con<g ref="char:EOLhyphen"/>voy for thoſe who ſhould be ſent, but We returned this Anſwer, That as We had never refuſed to receive any Pe<g ref="char:EOLhyphen"/>tition from Our Houſes of Parliament, ſo We ſhould be ready to give ſuch a reception and Anſwer to this as ſhould be fit, and that the bringers of it ſhould come and goe with all ſafety, only We required that none of thoſe Perſons whom We had particularly accuſed of high Treaſon ſhould be, by colour of that Petition, imployed to Vs. After this We heard no more till a ſecond letter, at leaſt a fort<g ref="char:punc">▪</g> night after the firſt, to the <hi>Earl</hi> of <hi>Dorſet,</hi> informed Vs that Our former Anſwer was declared to be a breach of Pri<g ref="char:EOLhyphen"/>viledge that We would not allow any Meſſengers to come to Us, that is, that We were not content that ſuch Perſons who had conſpired Our death, might ſecurely come into Our preſence; Our ſecond Anſwer differed little from Our former, inſiſting that the addreſſe ſhould not be made by any of thoſe Perſons whom We had particularly accu<g ref="char:EOLhyphen"/>ſed of high Treaſon, amongſt whom the <hi>Earle</hi> of <hi>Eſſex</hi> himſelfe was one, but declaring that Our eare ſhould be ſtill open to heare any Petition from Our two Houſes of Parliament: whether this were a denyall from Vs to re<g ref="char:EOLhyphen"/>ceive
+<pb n="5" facs="tcp:156180:4"/>
+               <!-- PDF PAGE 64 -->their Petition, or whether if Our two Houſes of Par<g ref="char:EOLhyphen"/>liament had indeed deſired to Treat with Vs by Petition, they might not as well have ſent it to Vs, as they have done ſince their Inſtructions to their Ambaſſadours into <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and their new Bill for rooting out Epiſcopacy, and deviſing a new forme of Church-government, let all the world judge. We have reaſon to beleeve that the Petition then prepared for Vs (if We have ſeen the true coppy of it) was thought by the Perſons truſted for the preſenting it, fitter to be delivered after a Battle and full Conqueſt of Vs, then in the head of Our Army, when it might ſeeme ſomewhat in Our power whether We would be depoſed or noe.</p>
+            <p>For that continued diſhoneſt Accuſation of Our Incli<g ref="char:EOLhyphen"/>nation to the Papiſts (which the Authors of it in their own Conſciences (which will one day be dreadfull to them) know to be moſt unjuſt and groundleſſe,) We can ſay no more, and We can doe no more to the ſatisfaction of the world, If they know that the Romiſh Prieſts have encou<g ref="char:EOLhyphen"/>raged thoſe of that religion to conforme themſelves to the Proteſtant Religion, by comming to Church, receiving the Sacrament, and taking the Oaths of Allegiance and Supremacy, they are more converſant with the ſubtilties of them then We are, but We muſt confeſſe till We be certain they have found that way to deceive Vs, that is, to delude the Lawes which are againſt them, We ſhall in Charity beleeve their conformity to be reall, and not pre<g ref="char:EOLhyphen"/>tended; but that any Prieſts or Ieſuites impriſoned have been releaſed by Vs out of the Goale of <hi>Lancaster,</hi> or any other Goale, is as falſe (to uſe an expreſſion of their own) as the Father of Lyes could invent, neither are the Perſons named in that Declaration to whom Commiſſions are ſup<g ref="char:EOLhyphen"/>poſed
+<pb n="6" facs="tcp:156180:5"/>
+               <!-- PDF PAGE 65 -->to be granted for places of Command in this War; ſo much as known to Vs, nor have they any command, or, to Our knowledge, are preſent in Our Army, and 'tis ſtrange that Our Oathes and Proteſtations before Almigh<g ref="char:EOLhyphen"/>ty God, for the maintenance of the Proteſtant Religion, ſhould be ſo ſlighted in the end of this Declaration, when in the beginning of it, it is acknowledged to be the ſtrong<g ref="char:EOLhyphen"/>geſt obligation and aſſurance that any Chriſtian can give. We deſire to have Our Proteſtations believed by the evi<g ref="char:EOLhyphen"/>dence of Our Actions.</p>
+            <p>But they are informed (and that is ground enough for them to lay the baſeſt imputation upon their Soveraigne) that Sir <hi>Iohn Henderſon,</hi> and Colonell <hi>Cockram</hi> (men of ill report both for Religion and Honeſty) are ſent to <hi>Hambo<g ref="char:EOLhyphen"/>rough</hi> and <hi>Denmarke;</hi> (We thought We ſhould have heard no more newes from <hi>Denmark</hi>) to rayſe forraigne forces and to bring them hither: We have before in Our Decla<g ref="char:EOLhyphen"/>rations (ſufficient to ſatisfy any honeſt man,) declared Our opinion and reſolution concerning Forraigne Force, and We had never greater cauſe to be confident of ſecurity in Our own Subjects, and therefore cannot believe ſo vile a ſcandall can make any impreſſion in ſober men. Let a Liſt of the Nobility and Gentry about Vs, and in Our ſer<g ref="char:EOLhyphen"/>vice be viewed, and will they not be found the moſt zea<g ref="char:EOLhyphen"/>lous in the Proteſtant Religion, the moſt eminent in Repu<g ref="char:EOLhyphen"/>tation, of the greateſt fortunes, and the greateſt fame, the moſt publique Lovers of their Country, and moſt earneſt aſſertors of the Liberty of the Subject, that this Kingdom hath, how different the Reputation of the principle Ring<g ref="char:EOLhyphen"/>leaders of this faction and Rebellion is, how carefull they are of imploying virtuous and honeſt men, is apparent to all the world, when they have entertained all the deſperate
+<pb n="7" facs="tcp:156180:5"/>
+               <!-- PDF PAGE 65 -->and neceſſitous Perſons (whereof very many are Papiſts. which We ſpeak knowingly, as having taken ſeverall of them Priſoners) they can draw to them, and when they ſupercede a proceeding at the Common-Law for an odi<g ref="char:EOLhyphen"/>ous and infamous crime, that M. <hi>Criffan</hi> may have liberty to keep them company in this Rebellion.</p>
+            <p>For Our affection and gratious Inclination to the Citty of <hi>London,</hi> and how farre we are from any ſuch purpoſe, as theſe impious men charge Vs with, appears in Our late Proclamation, in which We declare the Suburbs to be comprehended as well as the Citties of <hi>London</hi> and <hi>Westminſter,</hi> to which We doubt not they will give that credit and obedience, as We ſhall have cauſe to commend their Loyalty in joyning with Vs to ſuppreſſe this Rebel<g ref="char:EOLhyphen"/>lion, which uncontroled, in a ſhort time, muſt make that place moſt miſerable.</p>
+            <p>For the Oath and Covenant which they threaten Vs with, if it be to engage them to doe or not to doe any thing contrary to the Oathes they have already taken of Allegi<g ref="char:EOLhyphen"/>ance and Supremacy, as it cannot oblige them being ta<g ref="char:EOLhyphen"/>ken, ſo We doubt not Our good Subjects will eaſily diſ<g ref="char:EOLhyphen"/>cerne that it is a ſnare to betray and lead them into a con<g ref="char:EOLhyphen"/>dition of the ſame guilt, and ſo of the ſame danger with themſelves; And We muſt therefore declare whoſoever ſhall hereafter ſuffer himſelfe to be cozened by thoſe Stra<g ref="char:EOLhyphen"/>tagems, and take ſuch a voluntary Oath againſt Vs, Wee ſhall impute it to ſo much malice, as will render him unca<g ref="char:EOLhyphen"/>pable of Our Pardon, and ſhall proceed againſt him as a deſperate Promoter of Sedition, and an Enemy to the Kingdom.</p>
+            <p>Let all honeſt men remember the many gratious Acts We have paſſed this Parliament for the eaſe and benefit of
+<pb n="8" facs="tcp:156180:6"/>
+               <!-- PDF PAGE 66 -->Our people, that when there was nothing left undone or unoffered by Vs, which might make this Nation happy, theſe miſchievous Contrivers of Ruine, inſtead of ac<g ref="char:EOLhyphen"/>knowledging Our Grace and Iuſtice, upbraided Vs with all the Reproaches malice and cunning could invent in a Remonſtrance to the People (a thing never heard of till that time) that having thus incenſed mutinous and ſediti<g ref="char:EOLhyphen"/>ous mindes, they made uſe of them to awe the Parliament, drave Vs, and the major part of both Houſes from Our Citty of <hi>London,</hi> that they took away Our Fort and Town of <hi>Hull</hi> from Vs, kept Vs from thence by force of Armes, and imployed Our own Magazine againſt Vs, that they ſeized upon Our Royall Navy, and with it chaſed Our good Subjects, and kept all ſupply from Vs, that they vo<g ref="char:EOLhyphen"/>ted away Our negative voyce, and then raiſed a formida<g ref="char:EOLhyphen"/>ble Army to deſtroy Vs, that when they had thus com<g ref="char:EOLhyphen"/>pelled Us, by the help of ſuch of Our good Subjects who againſt the fury of theſe men durſt continue loyall, to rayſe ſome power for Our defence, they abſolutely and peremp<g ref="char:EOLhyphen"/>torily refuſed to treat with Us for the peace of the King<g ref="char:EOLhyphen"/>dome; and laſtly that on the 23<hi rend="sup">d</hi> of <hi>October</hi> they brought this Army (raiſed for the defence of Our Perſon) into the Field againſt Vs, and uſed their beſt skill and means to de<g ref="char:EOLhyphen"/>ſtroy Vs and Our Children, We ſay whoever remembers and conſiders this progreſſe of theirs, will think of no o<g ref="char:EOLhyphen"/>ther Covenant then to joyne with Us in the apprehending the Authors of this miſerable Civil-Warre, that Poſterity may not with ſhame and indignation finde that a few Schiſ<g ref="char:EOLhyphen"/>maticall ambitious perſons, were able to bring ſuch a flou<g ref="char:EOLhyphen"/>riſhing glorious Kingdom, which hath ſo long reſiſted the Envy of Chriſtendome, to a ſpeedy deſolation, to ſatisfy their own pride and Ambition. And We doubt not Our
+<pb n="9" facs="tcp:156180:6"/>
+               <!-- PDF PAGE 66 -->good Subjects of <hi>Scotland,</hi> will never think themſelves en<g ref="char:EOLhyphen"/>gaged by the Act of Pacification (to which We willingly conſented) to aſſiſt a Rebellion againſt their own naturall King, for the aſſiſtance of Perſons accuſed and notoriouſly known to be guilty of High Treaſon, the bringing of whom to condigne puniſhment, would with Gods bleſſing, be a ſpeedy means of happineſſe and Peace to Our three Kingdoms.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
